@@ -1,2 +1,2 @@
-# Projecto-Base-Do-React-Toda-Configura-o-Feita-Do-0
+# Projecto-Base-Do-React-Toda-Configuracao-Feita-Do-0
 Um projecto base com toda configuração do ambiente do react feita do 0, propriamente configuração do webpack, babel e mais...
