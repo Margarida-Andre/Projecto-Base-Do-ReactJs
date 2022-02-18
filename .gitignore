@@ -1,0 +1,4 @@
+# Ignoring some files
+
+# dependencies
+/node_modules
