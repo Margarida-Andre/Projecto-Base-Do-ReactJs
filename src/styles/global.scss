@@ -5,12 +5,16 @@
 }
 
 body {
-  font: Arial, Helvetica, sans-serif;
+  width: 100%;
+  height: 651px;
+  font-family: "Franklin Gothic";
   background: #333;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   color: #fff;
+
 
   h1 {
     color: yellow;
